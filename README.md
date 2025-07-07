@@ -113,3 +113,11 @@ Below is the comprehensive tech stack used in the development of **Sanvad**, you
 
 > ✅ This tech stack enables **semantic search**, **Hindi-native LLM responses**, and **real-time retrieval**, making Sanvad a production-ready solution for Indic document intelligence and question answering.
 
+
+
+## 🤝 Contributing
+Contributions to this project are welcome! If you have ideas for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
