@@ -87,7 +87,7 @@ def convert_to_documents(output):
 
 
 
-pdf_path = "/home/botadmin/Hindi-RAG/Data/7-4-23-220.pdf"
+pdf_path = "Data/7-4-23-220.pdf"
 print(f"📥 Reading and parsing PDF: {pdf_path}")
 try:
     raw_output = pymupdf4llm.to_markdown(doc=pdf_path, page_chunks=True)
