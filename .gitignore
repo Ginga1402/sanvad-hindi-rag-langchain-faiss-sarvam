@@ -1,1 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Application specific
+vector_store/
+data/pdfs/*
+!data/pdfs/.gitkeep
