@@ -7,11 +7,17 @@ __pycache__/
 venv/
 env/
 
+
+
 # IDE
 .idea/
 .vscode/
+
+
 
 # Application specific
 vector_store/
 data/pdfs/*
 !data/pdfs/.gitkeep
+
+
